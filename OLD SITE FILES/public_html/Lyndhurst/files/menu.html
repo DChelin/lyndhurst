@@ -1,0 +1,67 @@
+
+<div id="full-menu">
+	<div class="wrapper">
+		<div id="menu-wrapper">
+			<ul>
+						<li><a href="index.php">Home</a></li>
+                        <li><a href="management-group.php">Management Group</a></li>
+			<li><a href="market-focus.php">Market Focus</a></li>
+			<li><a href="notices.php">Legal Notices</a></li>
+			<li><a href="contact.php">Contact</a></li>
+			</ul>
+		</div><!---menuwrapper-->
+		
+		
+		
+		
+		<div id="chevron">
+		<img src="images/chevron.jpg" />
+		</div><!---chevron-->
+		
+		
+	</div><!---wrapper-->
+<div class="clear"></div>
+</div><!---full-menu-->
+
+
+
+
+
+<div id="responsivemenu">
+	<div class="wrapper">
+		<div class="menubutton">
+		<img src="images/menuicon.png" width="25" height="19" align="right" />
+		<p>MENU </p>
+		</div><!---menubutton-->
+	<div class="clear"></div>
+
+	<div id="hiddenmenu">
+			<ul>
+						<li><a href="index.php">Home</a></li>
+                        <li><a href="management-group.php">Management Group</a></li>
+			<li><a href="market-focus.php">Market Focus</a></li>
+			<li><a href="notices.php">Legal Notices</a></li>
+			<li><a href="contact.php">Contact</a></li>
+			</ul>	<div class="clear"></div>
+	</div><!---hiddenmenu-->
+
+	</div><!---wrapper--> 
+	
+
+</div><!--responsivemenu-->
+<div class="clear"></div>	
+
+
+<!---make sure that this script always goes below the menu otherwise it wont work -->
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	jQuery(function($) {
+			
+			$('.menubutton').click(function() {
+				$('#hiddenmenu').slideToggle();
+			});
+	});
+</script>
+
+
+
