@@ -1,0 +1,35 @@
+crawl-66-249-66-77.googlebot.com - - [11/Jan/2023:00:25:41 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 261 464 - -
+crawl-66-249-66-194.googlebot.com - - [11/Jan/2023:00:25:41 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.115 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 452 1490 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:09 +0200] "GET / HTTP/1.1" 200 1227 "-" "curl/7.37.0" 205 1490 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:09 +0200] "GET / HTTP/1.1" 200 1227 "-" "curl/7.37.0" 205 1490 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:20 +0200] "GET /management-group.php HTTP/1.1" 200 1273 "-" "curl/7.37.0" 225 1536 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:30 +0200] "GET /market-focus.php HTTP/1.1" 200 1497 "-" "curl/7.37.0" 221 1760 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:40 +0200] "GET /index.php HTTP/1.1" 200 1227 "-" "curl/7.37.0" 214 1490 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:57:51 +0200] "GET /notices.php HTTP/1.1" 200 4125 "-" "curl/7.37.0" 216 4388 - -
+ec2-34-240-205-92.eu-west-1.compute.amazonaws.com - - [11/Jan/2023:03:58:00 +0200] "GET /contact.php HTTP/1.1" 200 1229 "-" "curl/7.37.0" 216 1492 - -
+sharesasset.net - - [11/Jan/2023:05:34:03 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "test" 150 427 - -
+sharesasset.net - - [11/Jan/2023:05:34:03 +0200] "GET / HTTP/1.1" 200 1227 "-" "test" 140 1453 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [11/Jan/2023:10:34:34 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+vps-35960477.vps.ovh.net - - [11/Jan/2023:11:06:28 +0200] "GET / HTTP/1.1" 200 1227 "-" "2ip bot/1.1 (+http://2ip.io)" 151 1453 - -
+vps-35960477.vps.ovh.net - - [11/Jan/2023:11:06:30 +0200] "GET / HTTP/1.1" 200 1227 "-" "2ip bot/1.1 (+http://2ip.io)" 151 1453 - -
+vps-35960477.vps.ovh.net - - [11/Jan/2023:11:06:32 +0200] "GET / HTTP/1.1" 200 1227 "-" "2ip bot/1.1 (+http://2ip.io)" 151 1453 - -
+194.110.203.40 - - [11/Jan/2023:13:27:37 +0200] "GET /database/backup_lyndhurst-ltd.sql.tar HTTP/1.1" 404 264 "-" "Firefox" 426 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+137.184.89.107 - - [11/Jan/2023:14:14:07 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Linux; U; Android 2.0; en-us; Milestone Build/ SHOLS_U2_01.03.1) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17" 643 6756 TLSv1.3 TLS_AES_256_GCM_SHA384
+nbl38.ntup.net - - [11/Jan/2023:14:27:48 +0200] "GET /sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php HTTP/1.1" 404 263 "-" "ALittle Client" 269 464 - -
+0ccac968.tidalcoinage.internet-measurement.com - - [11/Jan/2023:16:01:27 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" 580 6756 TLSv1.3 TLS_AES_256_GCM_SHA384
+tor-exit-terrahost01.tuxli.org - - [11/Jan/2023:16:01:43 +0200] "GET /favicon.ico HTTP/2.0" 404 264 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" 140 343 TLSv1.3 TLS_AES_256_GCM_SHA384
+ec2-13-58-222-32.us-east-2.compute.amazonaws.com - - [11/Jan/2023:16:05:51 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" 307 1490 - -
+ns3215834.ip-146-59-69.eu - - [11/Jan/2023:16:18:52 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [11/Jan/2023:16:32:21 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [11/Jan/2023:16:46:10 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+116.10.195.35.bc.googleusercontent.com - - [11/Jan/2023:18:26:55 +0200] "HEAD / HTTP/1.1" 200 - "-" "Apache-HttpClient/4.5.5 (Java/11.0.9)" 174 194 - -
+186.234.80.132 - - [11/Jan/2023:19:11:05 +0200] "GET /wp-login.php HTTP/1.1" 404 16 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96" 211 219 - -
+crawl-66-249-66-62.googlebot.com - - [11/Jan/2023:21:12:01 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 257 464 - -
+crawl-66-249-66-33.googlebot.com - - [11/Jan/2023:21:12:02 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 386 1490 - -
+crawl-66-249-66-136.googlebot.com - - [11/Jan/2023:21:12:03 +0200] "GET /responsive.css HTTP/1.1" 200 506 "http://lyndhurst-ltd.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.130 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 477 852 - -
+crawl-66-249-66-33.googlebot.com - - [11/Jan/2023:21:12:04 +0200] "GET /style.css HTTP/1.1" 200 1579 "http://lyndhurst-ltd.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.130 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 472 1927 - -
+crawl-66-249-66-2.googlebot.com - - [11/Jan/2023:21:12:06 +0200] "GET /parallax.min.js HTTP/1.1" 200 2103 "http://lyndhurst-ltd.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.130 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 463 2465 - -
+crawl-66-249-66-132.googlebot.com - - [11/Jan/2023:21:12:14 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "Googlebot-Image/1.0" 218 464 - -
+23.250.86.139 - - [11/Jan/2023:21:29:16 +0200] "GET / HTTP/1.1" 200 1227 "http://www.lyndhurst-ltd.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/55.0" 497 1490 - -
+23.250.86.139 - - [11/Jan/2023:21:29:16 +0200] "GET /management-group.php HTTP/1.1" 200 1273 "http://lyndhurst-ltd.com" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/55.0" 509 1536 - -
+crawl-66-249-66-82.googlebot.com - - [11/Jan/2023:22:18:31 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 260 1490 - -

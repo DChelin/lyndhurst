@@ -1,0 +1,25 @@
+137.116.141.77 - - [19/Jan/2023:00:53:59 +0200] "GET /wp-login.php HTTP/1.1" 404 16 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96" 211 219 - -
+165.246.153.84 - - [19/Jan/2023:02:20:17 +0200] "GET /1/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 559 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+194.110.203.41 - - [19/Jan/2023:03:58:06 +0200] "GET /database/lyndhurst-ltd.comdb.7z HTTP/1.1" 404 264 "-" "Firefox" 420 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+103.171.177.200 - - [19/Jan/2023:05:20:38 +0200] "GET /tmp/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 561 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+194.110.203.41 - - [19/Jan/2023:06:19:41 +0200] "GET /database/lyndhurst-ltd.com_db.7z HTTP/1.1" 404 264 "-" "Firefox" 421 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+188.166.249.109 - - [19/Jan/2023:06:44:38 +0200] "GET /wp-content/ HTTP/1.1" 404 263 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" 243 464 - -
+42.83.147.34 - - [19/Jan/2023:07:03:48 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36" 279 1446 - -
+crawl-lrsstc.mj12bot.com - - [19/Jan/2023:10:07:20 +0200] "GET /robots.txt HTTP/1.1" 403 266 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)" 189 467 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:10:19:28 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+194.110.203.47 - - [19/Jan/2023:10:43:43 +0200] "GET /database/lyndhurst-ltd.com_database.7z HTTP/1.1" 404 264 "-" "Firefox" 427 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:13:03:12 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:13:22:04 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:13:38:28 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+sharesasset.net - - [19/Jan/2023:13:55:34 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "test" 150 427 - -
+sharesasset.net - - [19/Jan/2023:13:55:34 +0200] "GET / HTTP/1.1" 200 1227 "-" "test" 140 1453 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:14:49:28 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+45.10.165.108 - - [19/Jan/2023:15:11:56 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" 427 464 - -
+194.110.203.45 - - [19/Jan/2023:15:33:27 +0200] "GET /database/dbdump.rar HTTP/1.1" 404 264 "-" "Firefox" 408 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+host81-158-49-129.range81-158.btcentralplus.com - - [19/Jan/2023:16:09:35 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+219.228.140.34.bc.googleusercontent.com - - [19/Jan/2023:18:30:14 +0200] "HEAD / HTTP/1.1" 200 - "-" "Apache-HttpClient/4.5.5 (Java/11.0.9)" 174 194 - -
+130.255.166.142 - - [19/Jan/2023:19:06:58 +0200] "GET /robots.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" 337 427 - -
+mail-166-69.rch003.net - - [19/Jan/2023:19:06:58 +0200] "GET /humans.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" 337 427 - -
+mail-166-97.rch003.net - - [19/Jan/2023:19:06:58 +0200] "GET /ads.txt HTTP/1.1" 404 263 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" 334 427 - -
+mail-166-90.rch003.net - - [19/Jan/2023:19:06:58 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Safari/604.1" 348 1453 - -
+194.110.203.47 - - [19/Jan/2023:22:07:27 +0200] "GET /database/localhost_db.rar HTTP/1.1" 404 264 "-" "Firefox" 414 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384

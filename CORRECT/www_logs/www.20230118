@@ -1,0 +1,42 @@
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:02:52:22 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+206.238.115.100 - - [18/Jan/2023:02:56:14 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0" 390 1490 - -
+206.238.115.100 - - [18/Jan/2023:02:56:15 +0200] "GET /.env HTTP/1.1" 403 266 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" 419 467 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:02:56:55 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:03:25:19 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:03:25:21 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:03:25:29 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+206.238.115.100 - - [18/Jan/2023:03:33:33 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0" 800 6450 TLSv1.2 ECDHE-RSA-AES256-SHA384
+206.238.115.100 - - [18/Jan/2023:03:33:34 +0200] "GET /.env HTTP/1.1" 403 267 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" 965 714 TLSv1.2 ECDHE-RSA-AES256-SHA384
+112.186.199.84 - - [18/Jan/2023:04:50:28 +0200] "GET /wordpress/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 567 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+194.110.203.40 - - [18/Jan/2023:06:03:59 +0200] "GET /database/localhostdb.7z HTTP/1.1" 404 264 "-" "Firefox" 412 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:07:05:08 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:07:08:09 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:07:12:00 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+45.61.188.225 - - [18/Jan/2023:07:24:31 +0200] "GET ///wp-login.php HTTP/1.1" 404 16 "http://www.google.com.hk" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36" 988 4922 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+ns3215834.ip-146-59-69.eu - - [18/Jan/2023:07:35:46 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+106.255.96.236 - - [18/Jan/2023:07:52:24 +0200] "GET /blog/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 562 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+host81-158-49-129.range81-158.btcentralplus.com - - [18/Jan/2023:10:15:23 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host81-158-49-129.range81-158.btcentralplus.com - - [18/Jan/2023:10:58:28 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+d54C43A43.access.telenet.be - - [18/Jan/2023:11:00:57 +0200] "GET /blogs/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 563 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+80.94.92.34 - - [18/Jan/2023:11:22:14 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9" 240 1446 - -
+80.94.92.34 - - [18/Jan/2023:11:22:15 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9" 225 408 - -
+80.94.92.34 - - [18/Jan/2023:11:22:15 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36" 527 6097 TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256
+80.94.92.34 - - [18/Jan/2023:11:22:16 +0200] "GET /favicon.ico HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36" 251 438 TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256
+80.94.92.34 - - [18/Jan/2023:11:22:15 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9" 236 1446 - -
+80.94.92.34 - - [18/Jan/2023:11:22:17 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9" 221 408 - -
+80.94.92.34 - - [18/Jan/2023:11:22:17 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36" 519 6097 TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256
+80.94.92.34 - - [18/Jan/2023:11:22:17 +0200] "GET /favicon.ico HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36" 247 438 TLSv1.2 ECDHE-RSA-AES128-GCM-SHA256
+host81-158-49-129.range81-158.btcentralplus.com - - [18/Jan/2023:11:35:14 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+msnbot-40-77-167-56.search.msn.com - - [18/Jan/2023:13:29:24 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36" 374 1490 - -
+msnbot-40-77-167-56.search.msn.com - - [18/Jan/2023:13:29:33 +0200] "GET /responsive.css HTTP/1.1" 200 506 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 314 852 - -
+msnbot-157-55-39-42.search.msn.com - - [18/Jan/2023:13:29:38 +0200] "GET /parallax.min.js HTTP/1.1" 200 2103 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 315 2465 - -
+msnbot-207-46-13-200.search.msn.com - - [18/Jan/2023:13:29:43 +0200] "GET /style.css HTTP/1.1" 200 1579 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" 309 1927 - -
+60.0.146.103 - - [18/Jan/2023:14:06:12 +0200] "GET /www/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 561 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+p5b2942bb.dip0.t-ipconnect.de - - [18/Jan/2023:17:01:08 +0200] "GET /a/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 559 5731 TLSv1.3 TLS_AES_256_GCM_SHA384
+194.110.203.46 - - [18/Jan/2023:17:26:16 +0200] "GET /database/lyndhurst-ltddb.7z HTTP/1.1" 404 264 "-" "Firefox" 416 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+51.210.189.35.bc.googleusercontent.com - - [18/Jan/2023:18:27:49 +0200] "HEAD / HTTP/1.1" 200 - "-" "Apache-HttpClient/4.5.5 (Java/11.0.9)" 174 194 - -
+185.241.208.106 - - [18/Jan/2023:20:04:14 +0200] "GET /.env HTTP/1.1" 403 267 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36" 869 5786 TLSv1.3 TLS_AES_256_GCM_SHA384
+185.241.208.106 - - [18/Jan/2023:20:04:14 +0200] "POST / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36" 977 6808 TLSv1.3 TLS_AES_256_GCM_SHA384
+194.110.203.45 - - [18/Jan/2023:20:56:44 +0200] "GET /database/lyndhurst-ltd-db.7z HTTP/1.1" 404 264 "-" "Firefox" 417 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+194.110.203.41 - - [18/Jan/2023:23:15:03 +0200] "GET /database/lyndhurst-ltd_database.7z HTTP/1.1" 404 264 "-" "Firefox" 423 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+218.39.166.3 - - [18/Jan/2023:23:23:04 +0200] "GET /backup/license.txt HTTP/1.1" 404 264 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0" 564 5731 TLSv1.3 TLS_AES_256_GCM_SHA384

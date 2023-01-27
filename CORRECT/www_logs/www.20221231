@@ -1,0 +1,17 @@
+ip85.215.168.186.pbiaas.com - - [31/Dec/2022:00:46:42 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 343 1490 - -
+ns3215834.ip-146-59-69.eu - - [31/Dec/2022:00:58:13 +0200] "GET / HTTP/1.1" 200 3810 "-" "cpp-httplib/0.10.9" 131 4030 - -
+157.230.15.179 - - [31/Dec/2022:04:26:28 +0200] "GET /index.php HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" 514 1490 - -
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:10:55:06 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:11:07:04 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:12:02:45 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:12:15:33 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:13:19:48 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+194.110.203.39 - - [31/Dec/2022:14:44:30 +0200] "GET /database/db.bak HTTP/1.1" 404 264 "-" "Firefox" 404 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+host86-131-241-51.range86-131.btcentralplus.com - - [31/Dec/2022:15:27:04 +0200] "GET /favicon.ico HTTP/1.1" 404 263 "-" "-" 102 464 - -
+194.110.203.41 - - [31/Dec/2022:18:37:13 +0200] "GET /database/database.php.bak HTTP/1.1" 404 264 "-" "Firefox" 414 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+112.97.77.34.bc.googleusercontent.com - - [31/Dec/2022:19:05:22 +0200] "HEAD / HTTP/1.1" 200 - "-" "Apache-HttpClient/4.5.5 (Java/11.0.9)" 174 194 - -
+194.110.203.42 - - [31/Dec/2022:19:29:28 +0200] "GET /database/db.gz HTTP/1.1" 404 264 "-" "Firefox" 403 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+194.110.203.46 - - [31/Dec/2022:20:28:27 +0200] "GET /database/db.zip HTTP/1.1" 404 264 "-" "Firefox" 404 5245 TLSv1.2 ECDHE-RSA-AES256-GCM-SHA384
+20.235.109.26 - - [31/Dec/2022:22:06:13 +0200] "GET /.env HTTP/1.1" 403 266 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" 236 467 - -
+20.235.109.26 - - [31/Dec/2022:22:06:13 +0200] "GET /wp-content/ HTTP/1.1" 404 263 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0" 243 464 - -
+117.33.227.207 - - [31/Dec/2022:23:42:26 +0200] "GET / HTTP/1.1" 200 1227 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" 316 1453 - -
